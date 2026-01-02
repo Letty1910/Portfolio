@@ -7,13 +7,13 @@
 
 ---
 
-## 🎯 Objetivo del proyecto
+## 🎯 Objetivo
 
-Construir una **visión 360° del cliente**, combinando información **productiva, territorial, comercial y financiera**, para responder una pregunta clave del negocio:
+Construir una **visión 360° del cliente**, integrando información **productiva, territorial, comercial y financiera**, para responder una pregunta clave:
 
 > **¿Cuál es el biopotencial real de cada cliente y cómo se relaciona con su facturación actual?**
 
-El proyecto permite **priorizar acciones comerciales**, detectar oportunidades ocultas y mejorar la toma de decisiones a nivel **cliente, zona y área de negocio**.
+El proyecto permite **priorizar acciones comerciales**, detectar oportunidades y analizar el negocio por **cliente, zona y área**.
 
 ---
 
@@ -21,74 +21,53 @@ El proyecto permite **priorizar acciones comerciales**, detectar oportunidades o
 
 Proyecto desarrollado **end-to-end**, con responsabilidad total sobre:
 
-- Ideación y definición del problema
-- Discovery con áreas comerciales y operativas
-- Diseño del modelo de datos
-- Integraciones y automatización
-- Construcción de indicadores y tableros
-- Definición de acciones sugeridas para el negocio
+- Ideación y discovery con áreas comerciales y operativas  
+- Diseño del modelo de datos y arquitectura  
+- Integraciones, automatización y Data Lake  
+- Construcción de KPIs, tableros y acciones sugeridas  
 
 👉 **Desde la idea hasta la implementación final.**
 
 ---
 
-## 🔍 Problema de negocio
+## 🔍 Problema
 
-- Información de clientes **fragmentada** entre múltiples sistemas  
+- Información de clientes **fragmentada**  
 - Falta de visibilidad del **potencial productivo real**  
-- Decisiones comerciales basadas solo en facturación histórica  
-- Dificultad para priorizar clientes y zonas  
-- Poco seguimiento del desempeño por **ADR, área y territorio**
+- Decisiones basadas solo en facturación histórica  
+- Dificultad para priorizar clientes, zonas y áreas  
 
 ---
 
-## 💡 Solución implementada
+## 💡 Solución
 
 Se diseñó una solución integral basada en:
 
-- **Data Lake** como fuente unificada de información  
+- **Data Lake** como fuente única de información  
 - Integración de **APIs externas** (BNA, Bolsa de Cereales)  
-- Análisis territorial y productivo  
 - Modelos de **biopotencial vs facturación**  
-- Tableros de **acción rápida** para equipos comerciales  
+- Análisis territorial aplicado al rubro agro  
+- Tableros orientados a **acción comercial rápida**
 
-El resultado es un sistema que permite **entender al cliente en su totalidad**, no solo por lo que compra, sino por **lo que podría comprar**.
-
----
-
-## 🗂️ Arquitectura y datos
-
-### 🔗 Integraciones
-- APIs externas:
-  - Banco Nación Argentina (tipo de cambio)
-  - Bolsa de Cereales (precios y referencias productivas)
-- Fuentes internas comerciales y operativas
-- Datos territoriales y productivos
-
-### 🧱 Data Lake
-- Ingesta y consolidación de múltiples fuentes
-- Normalización de clientes y entidades
-- Preparación de capas analíticas reutilizables
-- Controles de calidad y consistencia de datos
+El resultado es una visión que permite entender **no solo lo que el cliente compra, sino lo que podría comprar**.
 
 ---
 
-## 📊 Análisis y visualización
+## 📊 Análisis y valor generado
 
-Se desarrollaron tableros que permiten analizar:
+Los tableros permiten analizar:
 
-- **Biopotencial total y por cliente**
-- Biopotencial vs **Facturación FY**
-- Segmentación de clientes por nivel de aprovechamiento
-- Clientes con alto biopotencial **no conectados**
-- Avance por **zona, sucursal y área**
-- Evolución temporal y comparativas
+- Biopotencial total y por cliente  
+- Biopotencial vs **Facturación FY**  
+- Segmentación por nivel de aprovechamiento  
+- Clientes con alto potencial **no conectados**  
+- Avance por **zona, sucursal y área**  
 
 ---
 
 ## 🚦 Acciones sugeridas (valor diferencial)
 
-Se incorporó una lógica de **acciones sugeridas automáticas**, orientadas al uso comercial:
+Se incorporó una lógica de **acciones automáticas** para uso comercial:
 
 - 🟢 Cliente activo y bien aprovechado  
 - 🟡 Cliente con potencial medio  
@@ -96,58 +75,50 @@ Se incorporó una lógica de **acciones sugeridas automáticas**, orientadas al 
 - 💤 Cliente dormido  
 - ⚠️ Cliente con alto biopotencial no conectado  
 
-Esto permitió **pasar del análisis a la acción**, facilitando el trabajo diario de los equipos comerciales.
+Esto permitió **pasar del análisis a la acción** y facilitar el trabajo diario de los equipos comerciales.
 
 ---
 
-## 🗺️ Análisis territorial
+## 🛠️ Tecnologías
 
-- Segmentación por **zona y área**
-- Análisis productivo aplicado al agro
-- Relación entre territorio, potencial y facturación
-- Identificación de zonas subaprovechadas
+- **Power BI** (modelado de datos, DAX, visualización)  
+- **Data Lake / Lakehouse**  
+- **SQL**  
+- **APIs externas** (BNA, Bolsa de Cereales)  
+- Automatización de procesos de actualización  
 
-El tablero permite visualizar el **avance territorial** y enfocar esfuerzos donde realmente hay oportunidad.
-
----
-
-## 🛠️ Tecnologías utilizadas
-
-- **Power BI**
-  - Modelado de datos
-  - DAX
-  - Visualización y storytelling
-- **Data Lake / Lakehouse**
-- **APIs externas** (BNA, Bolsa de Cereales)
-- **SQL** para preparación y consultas
-- Automatización de procesos de actualización
-
-> Las tecnologías se utilizan como medio para resolver problemas de negocio.
+> La tecnología se utiliza como medio para resolver problemas de negocio.
 
 ---
 
-## 📈 Impacto logrado
+## 📈 Impacto
 
-- Mejor priorización comercial
-- Mayor foco en clientes con alto potencial
-- Visión integrada del negocio
-- Reducción del análisis manual
-- Aceleración en la toma de decisiones
+- Mejor priorización comercial  
+- Mayor foco en clientes con alto potencial  
+- Visión integrada del negocio  
+- Reducción del análisis manual  
+- Decisiones más rápidas y accionables  
 
 ---
 
 ## 📸 Capturas del proyecto
 
-> *(Agregar imágenes del dashboard y del modelo de datos)*
+### Segmentación de clientes y biopotencial
+<img src="./images/dashboard-segmentacion.png" width="100%" />
 
-- Segmentación de clientes y biopotencial  
-- Comparativa biopotencial vs facturación  
-- Modelo de datos  
-- Acciones sugeridas  
+### Biopotencial vs Facturación
+<img src="./images/dashboard-facturacion.png" width="100%" />
+
+### Acciones sugeridas
+<img src="./images/acciones-sugeridas.png" width="100%" />
+
+### Modelo de datos
+<img src="./images/modelo-datos.png" width="100%" />
 
 ---
 
 ## 📌 Estado del proyecto
 
 ✅ Implementado  
-🔄 En evolución (ajustes y nuevas métricas según feedback del negocio)
+🔄 En evolución según feedback del negocio
+
