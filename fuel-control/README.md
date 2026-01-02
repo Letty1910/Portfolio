@@ -131,12 +131,6 @@ Los tableros permiten analizar:
 ### 📊 Vista general – Control de flota
 <img src="./images/dashboard-general.png" width="100%" />
 
-### ⛽ Consumo y kilómetros
-<img src="./images/consumo-km.png" width="100%" />
-
-### 🚗 Detalle por patente
-<img src="./images/detalle-patente.png" width="100%" />
-
 ### 🧱 Modelo de datos
 <img src="./images/modelo-datos.png" width="100%" />
 
