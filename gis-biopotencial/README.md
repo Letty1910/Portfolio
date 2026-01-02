@@ -1,8 +1,27 @@
+<div align="center">
+
 # 🌱 Biopotencial  
 ### Análisis integral de clientes, territorio y facturación en el rubro agro
 
+</div>
+
 <p align="center">
   <img src="./cover.png" alt="Proyecto Biopotencial - Análisis territorial y comercial" width="100%" />
+</p>
+
+---
+
+## 🛠️ Tecnologías
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Power%20BI-EBBAB9?style=for-the-badge&logo=powerbi&logoColor=000" />
+  <img src="https://img.shields.io/badge/Data%20Lake-97B1A6?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-5AA2AB?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/APIs-407076?style=for-the-badge&logo=fastapi&logoColor=white" />
+</p>
+
+<p align="center">
+  <em>La tecnología se utiliza como medio para resolver problemas de negocio.</em>
 </p>
 
 ---
@@ -79,18 +98,6 @@ Esto permitió **pasar del análisis a la acción** y facilitar el trabajo diari
 
 ---
 
-## 🛠️ Tecnologías
-
-- **Power BI** (modelado de datos, DAX, visualización)  
-- **Data Lake / Lakehouse**  
-- **SQL**  
-- **APIs externas** (BNA, Bolsa de Cereales)  
-- Automatización de procesos de actualización  
-
-> La tecnología se utiliza como medio para resolver problemas de negocio.
-
----
-
 ## 📈 Impacto
 
 - Mejor priorización comercial  
@@ -121,4 +128,3 @@ Esto permitió **pasar del análisis a la acción** y facilitar el trabajo diari
 
 ✅ Implementado  
 🔄 En evolución según feedback del negocio
-
