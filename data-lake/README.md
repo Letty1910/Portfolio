@@ -54,7 +54,7 @@ Este proyecto fue desarrollado de manera colaborativa, trabajando junto a equipo
 
 Mi rol estuvo enfocado en liderar, coordinar y alinear a los distintos actores involucrados, asegurando que las decisiones técnicas respondieran a necesidades reales del negocio y que la solución evolucionara de forma sostenible.
 
-El proceso fue acompañado en paralelo por un proveedor externo, donde **@Matias Rivara**  desempeñó un rol clave de liderazgo y coordinación técnica, junto a su equipo.
+El proceso fue acompañado en paralelo por un proveedor externo, donde **@mrivara**  desempeñó un rol clave de liderazgo y coordinación técnica, junto a su equipo.
 La articulación fluida, el entendimiento del negocio y el trabajo conjunto permitieron potenciar la solución, acelerar decisiones y lograr una implementación sólida y escalable.
 
 ---
