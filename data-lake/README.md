@@ -50,12 +50,12 @@ Proyecto desarrollado **end-to-end**, con **responsabilidad de coordinación, de
 
 ## 🤝 Trabajo en equipo y colaboración
 
-Este proyecto fue desarrollado de manera colaborativa, trabajando junto a equipos técnicos, operativos y de negocio de las distintas empresas del grupo.
+Este proyecto fue desarrollado de manera **colaborativa**, trabajando junto a **equipos técnicos, operativos y de negocio** de las distintas empresas del grupo.
 
-Mi rol estuvo enfocado en liderar, coordinar y alinear a los distintos actores involucrados, asegurando que las decisiones técnicas respondieran a necesidades reales del negocio y que la solución evolucionara de forma sostenible.
+Mi rol estuvo enfocado en **liderar, coordinar y alinear a los distintos actores involucrados**, asegurando que las decisiones técnicas respondieran a **necesidades reales del negocio** y que la solución **evolucionara de forma sostenible**.
 
-El proceso fue acompañado en paralelo por un proveedor externo, donde **@mrivara**  desempeñó un rol clave de liderazgo y coordinación técnica, junto a su equipo.
-La articulación fluida, el entendimiento del negocio y el trabajo conjunto permitieron potenciar la solución, acelerar decisiones y lograr una implementación sólida y escalable.
+El proyecto contó además con el acompañamiento externo de **[@mrivara](https://github.com/mrivara)**, quien desempeñó un rol clave como **líder técnico desde el lado del proveedor**, aportando visión, coordinación y trabajo conjunto con su equipo.
+
 
 ---
 
