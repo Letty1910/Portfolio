@@ -105,7 +105,7 @@ Toda la información se encuentra **centralizada, actualizada y trazable**.
 
 ---
 
-## 🚜 Uso a campo (diferencial clave)
+## 🚜 Uso a campo 
 
 - Cada colaborador registra los datos desde su **celular**
 - Funciona **sin conexión** y sincroniza automáticamente
