@@ -84,7 +84,7 @@ Los tableros permiten analizar:
 
 ---
 
-## 🚦 Acciones sugeridas (valor diferencial)
+## 🚦 Acciones sugeridas
 
 Se incorporó una lógica de **acciones automáticas** para uso comercial:
 
