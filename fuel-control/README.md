@@ -33,16 +33,14 @@ El proyecto busca **optimizar costos**, mejorar el control operativo y definir *
 
 ## 🧠 Rol y alcance
 
-Proyecto desarrollado **end-to-end**, con responsabilidad total sobre:
+Proyecto desarrollado de forma **colaborativa**, con un rol activo en la **coordinación, definición y toma de decisiones** a lo largo de todo el ciclo del producto.
 
-- Ideación y discovery con áreas operativas y administrativas  
-- Definición de KPIs y reglas de negocio  
-- Integración de múltiples fuentes de datos  
-- Diseño de Data Lake y modelo analítico  
-- Desarrollo de tableros BI  
-- Iteración entre primera y segunda versión del producto  
-
-👉 **Desde la necesidad inicial hasta la adopción por el negocio.**
+- Ideación y discovery
+- Definición de **KPIs, reglas de negocio y criterios de análisis**  
+- Coordinación de la **integración de múltiples fuentes de datos** (a cargo de Agus Spalla) 
+- Acompañamiento en el **diseño del modelo analítico**
+- Desarrollo y validación de **tableros de Business Intelligence**  
+- Iteración continua entre **primera y segunda versión** del producto, incorporando feedback del negocio
 
 ---
 
